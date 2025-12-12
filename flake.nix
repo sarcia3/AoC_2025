@@ -19,6 +19,7 @@
               debugpy
               numpy
               sortedcontainers
+              scipy
             ]
           ))
         ];
